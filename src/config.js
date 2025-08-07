@@ -15,6 +15,5 @@ module.exports = {
       reconnectTimeout: 300000,
       reconnectTries: 100,
     },
-    },
   ],
 };
